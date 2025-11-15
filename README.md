@@ -1,5 +1,7 @@
 **Global Death Rate Analysis (1960–2023) — Power BI Dashboard**
+
 A complete analytical dashboard exploring global mortality trends across 60+ years using Power BI, DAX, and custom visualizations.
+
 **Project Overview**
 This project analyzes worldwide death rates from 1960 to 2023 using a fully interactive Power BI dashboard.
 It highlights long-term mortality trends, year-over-year changes, country comparison insights, and predictive forecasting.
@@ -17,7 +19,6 @@ Contains:
 *Year
 *Death rate
 *Region
-
 ->Dataset cleaned and transformed using Power Query before analysis.
 
 **Key Features**
